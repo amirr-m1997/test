@@ -1,0 +1,1 @@
+python -m nuitka --standalone --mingw64 --enable-plugin=tk-inter main.py
